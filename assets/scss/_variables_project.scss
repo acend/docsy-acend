@@ -18,6 +18,11 @@ $dark: #403F4C;
 $blue: #72A1E5;
 $orange: #BA5A31;
 
+$navbar-light-color: $white;
+$navbar-light-brand-color: $white;
+$navbar-light-hover-color: lighten($AC-Blue, 50%);
+$navbar-light-active-color: lighten($AC-Blue, 50%);
+
 $link-color: lighten($AC-Blue, 25%);
 
 $td-enable-google-fonts: false;
